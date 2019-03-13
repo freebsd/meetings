@@ -11,3 +11,4 @@ Meeting notes are formatted in MarkDown.  Filenames should use a
 Directory | Description
 --- | ---
 bhyve/ | Working group focused on the bhyve hypervisor
+iflib/ | Working group focused on the iflib driver framework
