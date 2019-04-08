@@ -11,5 +11,7 @@ Meeting notes are formatted in MarkDown.  Filenames should use a
 Directory | Description
 --- | ---
 bhyve/ | Working group focused on the bhyve hypervisor
+capsicum/ | Capsicum framework development and application of Capsicum
 graphics/ | Working group focused on the graphics stack
 iflib/ | Working group focused on the iflib driver framework
+mitigations/ | OS-based vulnerability mitigations
