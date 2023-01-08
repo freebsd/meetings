@@ -1,3 +1,3 @@
 # Graphics Team Meetings
 
-We get together every two weeks to discuss current issues relating to graphics.
+Occasional get-togethers, some of which include note-taking.
