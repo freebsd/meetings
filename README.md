@@ -16,7 +16,8 @@ Directory | Description
 [graphics](https://github.com/freebsd/meetings/tree/master/graphics) | The graphics stack
 [iflib](https://github.com/freebsd/meetings/tree/master/iflib) | The iflib driver framework
 [mitigations](https://github.com/freebsd/meetings/tree/master/mitigations) | OS-based vulnerability mitigations
+[workflow](https://github.com/freebsd/meetings/tree/master/workflow)    | Contributor experience improvement
 
-Notes elsewhere include: 
+Notes elsewhere include:
 
 * FreeBSD workflow working group https://gitlab.com/bsdimp/freebsd-workflow
