@@ -17,6 +17,7 @@ Directory | Description
 [iflib](https://github.com/freebsd/meetings/tree/master/iflib) | The iflib driver framework
 [mitigations](https://github.com/freebsd/meetings/tree/master/mitigations) | OS-based vulnerability mitigations
 [workflow](https://github.com/freebsd/meetings/tree/master/workflow)    | Contributor experience improvement
+[supervision](https://github.com/freebsd/meetings/tree/master/supervision)   | init, rc, service, daemon and other process management topics
 
 Notes elsewhere include:
 
