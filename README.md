@@ -15,6 +15,7 @@ Directory | Description
 [git-wg](https://github.com/freebsd/meetings/tree/master/git-wg) | Subversion to Git Migration
 [graphics](https://github.com/freebsd/meetings/tree/master/graphics) | The graphics stack
 [iflib](https://github.com/freebsd/meetings/tree/master/iflib) | The iflib driver framework
+[jail](jail) | FreeBSD Jails
 [mitigations](https://github.com/freebsd/meetings/tree/master/mitigations) | OS-based vulnerability mitigations
 [workflow](https://github.com/freebsd/meetings/tree/master/workflow)    | Contributor experience improvement
 
