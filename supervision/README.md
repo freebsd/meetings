@@ -5,7 +5,7 @@ The goal of the group is improving FreeBSD in the following areas:
 
 - process tracking
 - process resource control
-- process confinment
+- process confinement
 - process supervision
 - service management
 - tools and languages for the above
@@ -26,14 +26,11 @@ For example: [`rctl(8)`](https://man.freebsd.org/rctl(8)), cgroups.
 Resource control relies on process tracking.
 
 
-## Process Confinment
+## Process Confinement
 
-Process confinement is how we run a process in a deterministic sandbox, such that the process has no way of escaping, and only is allowed access to a pre-defined environment (files,
-network interfaces, etc)
-that process has no way of escaping (example: chroot, confined but not
-tracked) and only allows access to a pre-defined environment (files,
-For example: chroot, confined but not
-tracked.
+Process confinement is how we run a process in a deterministic sandbox,
+such that the process has no way of escaping (example: chroot, confined but not tracked),
+and only is allowed access to a pre-defined environment (files, network interfaces, etc)
 
 Process Confinment requries reliable tracking.
 
@@ -46,7 +43,7 @@ Process supervision answers the following questions:
 - Did the process exit successfully or do we need to restart it?
 - How do we reliably and repeatably start and stop the process?
 
-Process supervision requries reliable tracking.
+Process supervision requires reliable tracking.
 
 ## Service Management
 
