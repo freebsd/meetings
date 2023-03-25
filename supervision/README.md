@@ -10,6 +10,11 @@ The goal of the group is improving FreeBSD in the following areas:
 - service management
 - tools and languages for the above
 
+You can find us (ngortheone & meena) in #FreeBSD-dev on LibraChat where we frequently talk about these things.
+This is probably also the easiest channel to join this group.
+For now, we're planning to [meet bi-weekly](./schedule.md) using KDE's BBB infrastructure.
+
+The following is a closer outline of the above topics
 
 ## Process Tracking
 
@@ -52,15 +57,15 @@ This in turn requires knowing:
 - which services and processes need to be up, in what order?
 - how to transition reliably between system states?
 
-Service managemement requires process supervision
+Service management requires process supervision
 
-# Tools and Languages
+## Tools and Languages
 
 Shell, Lua, C
 
-# Existing Supervision-Related Tools
+### Existing Supervision-Related Tools
 
-Existing tools and their respective problems:
+… and their respective problems:
 
 Tool      | Tracking | Confinment | Resource Control | Supervision
 ----------|----------| -----------|------------------|-------------
