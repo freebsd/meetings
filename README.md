@@ -19,6 +19,7 @@ Directory | Description
 [mitigations](https://github.com/freebsd/meetings/tree/master/mitigations) | OS-based vulnerability mitigations
 [workflow](https://github.com/freebsd/meetings/tree/master/workflow)    | Contributor experience improvement
 [supervision](https://github.com/freebsd/meetings/tree/master/supervision)   | init, rc, service, daemon and other process management topics
+[srcmgr](https://github.com/freebsd/meetings/tree/master/srcmgr) | src tree management
 
 Notes elsewhere include:
 
